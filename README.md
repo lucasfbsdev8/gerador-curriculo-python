@@ -2,7 +2,7 @@
 
 Programa em **Python** que roda no terminal, faz perguntas sobre você e gera um **currículo em HTML** pronto para abrir no navegador e imprimir ou salvar como PDF. Não usa bibliotecas externas, só o Python.
 
-**Demonstração em vídeo:** [assistir](https://youtu.be/ID-DO-VIDEO)
+**Demonstração em vídeo:** [assistir](https://youtu.be/FOc6DmjdWkE?si=wPejF5W_ZUxa6_crhttps://youtu.be/FOc6DmjdWkE?si=wPejF5W_ZUxa6_cr)
 **Exemplo do resultado:** [ver currículo gerado](https://lucasfbsdev8.github.io/NOME-DO-PORTFOLIO/exemplos/curriculo.html) (dados fictícios)
 
 ![Currículo gerado](docs/exemplo.png)
